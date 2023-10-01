@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+
+
+body {
+    font-family: Outfit, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: hsl(217, 54%, 11%);
+
+}
+
+.nft {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    width: 300px;
+    height: 300px;
+}
+
+.nft:hover {
+    color:  hsl(178, 100%, 50%);
+    background-image: url(./images/icon-view.svg);
+    
+}
+
+.whole-thing {
+    border: 2px solid hsl(216, 50%, 16%);
+    background-color:hsl(216, 50%, 16%);
+    width: 350px;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 45px;
+    height: 500px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+#title {
+    text-align: left;
+    font-weight: 600;
+    color: hsl(0, 0%, 100%);
+}
+
+#title:hover {
+    color:  hsl(178, 100%, 50%);
+}
+
+.bio {
+
+    font-size: 18px;
+    color: hsl(211, 12%, 48%);
+}
+
+.bitcoin,
+.bio,
+#title {
+    padding-left: 25px;
+}
+
+.bitcoin-text {
+    position: relative;
+    bottom: 3px;
+    color: hsl(178, 100%, 50%);
+}
+
+.clock {
+    position: relative;
+    left: 130px;
+}
+
+.clock-text {
+    position: relative;
+    bottom: 3px;
+    left: 130px; 
+    color: hsl(211, 12%, 48%);
+}
+
+
+.whole-thing,
+.nft {
+    border-radius: 8px;
+}
+
+.etherum {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: hsl(211, 12%, 48%);
+    padding-bottom: 15px;
+}
+
+.avatar img {
+    width: 35px;
+    height: 35px;
+    position: relative;
+    top: 9px;
+    right: -16px;
+}
+
+.avatar .avatar-text span {
+    text-align: center;
+    color: hsl(211, 12%, 48%);
+}
+
+.avatar .avatar-text con {
+    color: white;
+}
+.avatar .avatar-text con:hover {
+    color: hsl(178, 100%, 50%);
+}
