@@ -36,9 +36,9 @@ You can find the screenshot on the solution page here: https://www.frontendmento
 
   
 
-- Solution URL: [Solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/nft-preview-card-with-hover-effects-36CPqIfqJE))
+- Solution URL: https://your-solution-url.com](https://www.frontendmentor.io/solutions/nft-preview-card-with-hover-effects-36CPqIfqJE
 
-- Live Site URL: [Live site]([https://your-live-site-url.com](https://ruoo21.github.io/nft-preview-card/))
+- Live Site URL: https://ruoo21.github.io/nft-preview-card/
 
   
 
