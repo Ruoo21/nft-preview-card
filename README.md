@@ -29,16 +29,16 @@ Users should be able to:
 ### Screenshot
 
   
-You can find the screenshot on the solution page.
+You can find the screenshot on the solution page here: https://www.frontendmentor.io/solutions/nft-preview-card-with-hover-effects-36CPqIfqJE.
   
 
 ### Links
 
   
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/nft-preview-card-with-hover-effects-36CPqIfqJE))
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site]([https://your-live-site-url.com](https://ruoo21.github.io/nft-preview-card/))
 
   
 
